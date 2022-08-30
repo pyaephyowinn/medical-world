@@ -1,7 +1,17 @@
+import Categories from "./components/Layouts/Categories";
+import MainImageSlider from "./components/Layouts/MainImageSlider";
+import Navbar from "./components/Layouts/Navbar";
+import NewArrival from "./components/Layouts/NewArrival";
+import Promotion from "./components/Layouts/Promotion";
+
 const App = () => {
   return (
-    <div className="text-blueDark bg-customGray">
-      <h1 className="text-3xl font-bold underline">Hello world!</h1>
+    <div className="bg-GrayLight min-h-screen max-w-[1440px] mx-auto">
+      <Navbar />
+      <MainImageSlider />
+      <Categories />
+      <Promotion />
+      <NewArrival />
     </div>
   );
 };
