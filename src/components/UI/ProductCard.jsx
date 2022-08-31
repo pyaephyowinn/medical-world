@@ -1,18 +1,23 @@
-import imgProduct1 from "../../img/img-product1.jpg";
 import iconFavourite from "../../img/favourite.png";
 import iconMinus from "../../img/minus.png";
 import iconAdd from "../../img/add.png";
 
-const ProductCard = ({ bgGray }) => {
-  let bgColor = bgGray ? "bg-GrayDark" : "bg-white";
+const ProductCard = ({ bgGray, img, promoDate }) => {
+  const bgColor = bgGray ? "bg-GrayDark" : "bg-white";
   return (
-    <div className={`w-fit p-2 border-2 rounded-xl ${bgColor}`}>
-      <div className="w-32 h-32 overflow-hidden rounded-xl relative">
-        <img src={imgProduct1} alt="" />
+    <div className={`w-fit p-2 border-2 border-gray-100 rounded-xl ${bgColor}`}>
+      <div className="w-32 h-32 overflow-hidden rounded-xl relative mb-2">
+        <img src={img} alt="" />
         <div className="absolute top-1 right-1 h-6 rounded-full">
           <img src={iconFavourite} alt="" />
         </div>
       </div>
+
+      {promoDate && (
+        <div className="text-pink-500 text-xs text-center mb-1 tracking-tighter">
+          Ends in {promoDate}
+        </div>
+      )}
 
       <div>
         <p className="leading-5 font-medium text-gray-600 text-center">
