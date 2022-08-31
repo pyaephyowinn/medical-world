@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.12b27e3b.css",
-    "main.js": "/react-gh-pages/static/js/main.b0f88934.js",
-    "static/media/mobileAd1.png": "/react-gh-pages/static/media/mobileAd1.9269ef17dcffe9ebc8eb.png",
-    "static/media/img-promotion.png": "/react-gh-pages/static/media/img-promotion.236cd7e0e8016a463565.png",
-    "static/media/mobileBanner1.png": "/react-gh-pages/static/media/mobileBanner1.cd8da2177a07ba1ec38c.png",
-    "static/media/mobileBanner2.png": "/react-gh-pages/static/media/mobileBanner2.b676867cfaee14d8c44f.png",
-    "static/media/webAd1.png": "/react-gh-pages/static/media/webAd1.206decf1537a7328d70c.png",
-    "static/media/webBanner2.png": "/react-gh-pages/static/media/webBanner2.0e06a542972edf12f4c4.png",
-    "static/media/webBanner1.png": "/react-gh-pages/static/media/webBanner1.02dea3cd7fabb266e149.png",
-    "static/media/category.png": "/react-gh-pages/static/media/category.e96eb904b5a637426b97.png",
-    "static/media/img-product1.jpg": "/react-gh-pages/static/media/img-product1.b576448473f6a8a49f5b.jpg",
-    "static/media/logo hori.svg": "/react-gh-pages/static/media/logo hori.1a60cf94499301d94bfe74f3a74beea5.svg",
-    "index.html": "/react-gh-pages/index.html",
-    "main.12b27e3b.css.map": "/react-gh-pages/static/css/main.12b27e3b.css.map",
-    "main.b0f88934.js.map": "/react-gh-pages/static/js/main.b0f88934.js.map"
+    "main.css": "/medical-world/static/css/main.12b27e3b.css",
+    "main.js": "/medical-world/static/js/main.afe50e2d.js",
+    "static/media/mobileAd1.png": "/medical-world/static/media/mobileAd1.9269ef17dcffe9ebc8eb.png",
+    "static/media/img-promotion.png": "/medical-world/static/media/img-promotion.236cd7e0e8016a463565.png",
+    "static/media/mobileBanner1.png": "/medical-world/static/media/mobileBanner1.cd8da2177a07ba1ec38c.png",
+    "static/media/mobileBanner2.png": "/medical-world/static/media/mobileBanner2.b676867cfaee14d8c44f.png",
+    "static/media/webAd1.png": "/medical-world/static/media/webAd1.206decf1537a7328d70c.png",
+    "static/media/webBanner2.png": "/medical-world/static/media/webBanner2.0e06a542972edf12f4c4.png",
+    "static/media/webBanner1.png": "/medical-world/static/media/webBanner1.02dea3cd7fabb266e149.png",
+    "static/media/category.png": "/medical-world/static/media/category.e96eb904b5a637426b97.png",
+    "static/media/img-product1.jpg": "/medical-world/static/media/img-product1.b576448473f6a8a49f5b.jpg",
+    "static/media/logo hori.svg": "/medical-world/static/media/logo hori.1a60cf94499301d94bfe74f3a74beea5.svg",
+    "index.html": "/medical-world/index.html",
+    "main.12b27e3b.css.map": "/medical-world/static/css/main.12b27e3b.css.map",
+    "main.afe50e2d.js.map": "/medical-world/static/js/main.afe50e2d.js.map"
   },
   "entrypoints": [
     "static/css/main.12b27e3b.css",
-    "static/js/main.b0f88934.js"
+    "static/js/main.afe50e2d.js"
   ]
 }
